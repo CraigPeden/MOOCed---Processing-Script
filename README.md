@@ -1,4 +1,4 @@
-# MOOCed---Processing-Script
+# MOOCed - Processing-Script
 Script to automate the processing of Edinburgh MOOC data from raw Coursera into a database with extracts
 
 Usage:
