@@ -21,15 +21,15 @@ Usage:
   
   requirements.txt
 
-3. Inside files/ place a folder for a course, named in the <course>-<iteration> format. E.g warhol-002
+3. Inside files/ place a folder for a course, named in the course-iteration format. E.g warhol-002
 
 4. Run script from within the top level folder containing the script. NOT /files.
 
-`python offline_process.py <course_name> <start_date>`
+  `python offline_process.py <course_name> <start_date>`
 
-e.g
+  e.g
 
-`python offline_process.py warhol-002 2015-10-27`
+  `python offline_process.py warhol-002 2015-10-27`
 
-Course_name is <course>-<iteration>. Start date is Year-MM-DD
+  Course_name is course-iteration. Start date is Year-MM-DD
 
