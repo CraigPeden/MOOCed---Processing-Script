@@ -17,11 +17,11 @@ Usage:
 
 3. Run script
 
-`python offline_process <course_name> <start_date>`
+`python offline_process.py <course_name> <start_date>`
 
 e.g
 
-`python offline_process warhol-002 2015-10-27`
+`python offline_process.py warhol-002 2015-10-27`
 
 Course_name is <course>-<iteration>. Start date is Year-MM-DD
 
