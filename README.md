@@ -5,11 +5,11 @@ Usage:
 
 1. Create Virtualenv then Install Dependences
 
-`virtualenv env`
+  `virtualenv env`
 
-`source env/bin/activate`
+  `source env/bin/activate`
 
-`pip install -r requirements.txt`
+  `pip install -r requirements.txt`
 
 2. Emulate the file structure of the MOOC.ed server. Top level folder should be:
 
